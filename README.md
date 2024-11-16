@@ -1,6 +1,7 @@
 # Task Manager App
 
 Task Manager APP with React, Typescript and Redux Toolkit
+A basic To-do list Web App built using MERN Stack.
 [Live Demo](https://task-manager-app-react-typescript.netlify.app/)
 
 ## Setup
